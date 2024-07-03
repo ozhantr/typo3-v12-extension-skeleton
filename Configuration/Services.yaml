@@ -1,0 +1,4 @@
+# This file is used to define and configure services for the TYPO3 extension.
+# It follows the Symfony service container format and is used to register and configure services and their dependencies.
+# This file is optional but useful for managing services within your extension.
+# Adjust the service definitions as needed for your extension.

@@ -1,0 +1,5 @@
+-- This file defines the SQL table structures required by your extension.
+-- It includes SQL statements for creating and modifying database tables.
+-- This file is executed during the extension installation or upgrade.
+-- Ensure the SQL syntax complies with TYPO3 database requirements.
+-- This file is optional and should be used if your extension needs specific database tables or modifications.

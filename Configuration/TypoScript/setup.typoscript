@@ -1,0 +1,4 @@
+# This file contains TypoScript setup configurations for the TYPO3 extension.
+# It defines the main TypoScript settings that control the behavior and output of the extension.
+# This file is optional but essential for configuring frontend behavior.
+# Adjust the setup configurations as needed for your extension.

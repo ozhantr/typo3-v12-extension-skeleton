@@ -1,0 +1,5 @@
+# This file provides a template for configuring your extension.
+# It contains default configuration settings that users can customize via the TYPO3 backend.
+# This file is optional but useful for setting up initial configurations.
+# Modify the entries according to the extension's requirements.
+# Refer to the TYPO3 documentation for more details.

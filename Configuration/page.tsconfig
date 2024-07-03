@@ -1,0 +1,4 @@
+# This file is used to configure TypoScript settings specifically for pages in the TYPO3 extension.
+# It contains settings that are applied on a per-page basis, allowing for customization of page-specific behavior.
+# This file is optional but useful for managing page-related configurations.
+# Adjust the configurations as needed to fit the requirements of your extension.

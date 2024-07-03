@@ -1,0 +1,24 @@
+{
+    "name": "vendor/extension-key",
+    "type": "typo3-cms-extension",
+    "description": "Description of your extension",
+    "homepage": "https://your-extension-homepage.com",
+    "license": "GPL-2.0-or-later",
+    "keywords": ["TYPO3 CMS"],    
+    "require": {
+        "php": ">=8.1",
+        "typo3/cms-core": "^12.4",
+        "typo3/cms-rte-ckeditor": "^12.4",
+        "typo3/cms-fluid-styled-content": "^12.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\ExtensionKey\\": "Classes/"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "extension_key"
+        }
+    }
+}
